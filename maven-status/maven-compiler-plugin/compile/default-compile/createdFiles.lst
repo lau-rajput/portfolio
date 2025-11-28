@@ -1,6 +1,0 @@
-com\portfolio\portfolio\dto\ContactForm.class
-com\portfolio\portfolio\PortfolioApplication.class
-com\portfolio\portfolio\repository\ContactRepository.class
-com\portfolio\portfolio\controller\ContactController.class
-com\portfolio\portfolio\controller\HomeController.class
-com\portfolio\portfolio\model\ContactMessage.class
